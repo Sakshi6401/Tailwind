@@ -1,6 +1,8 @@
 import './App.css';
 import Box from "./practice/box";
 import Text from './practice/text';
+import Border from './practice/border';
+import Flex from './practice/flex';
 
 function App() {
   return (
@@ -8,6 +10,10 @@ function App() {
       <Box /> 
       <hr />
       <Text />
+      <hr />
+      <Border />
+      <hr />
+      <Flex />
     </div>
 
   );
