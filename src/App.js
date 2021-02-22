@@ -1,8 +1,8 @@
 import './App.css';
-import Box from "./practice/box";
-import Text from './practice/text';
-import Border from './practice/border';
-import Flex from './practice/flex';
+import Box from "./practice/Box";
+import Text from './practice/Text';
+import Border from './practice/Border';
+import Flex from './practice/Flex';
 
 function App() {
   return (
