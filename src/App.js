@@ -3,6 +3,7 @@ import Box from "./practice/Box";
 import Text from './practice/Text';
 import Border from './practice/Border';
 import Flex from './practice/Flex';
+import Res from './practice/Responsiveness.jsx';
 
 function App() {
   return (
@@ -14,6 +15,8 @@ function App() {
       <Border />
       <hr />
       <Flex />
+      <hr />
+      <Res />
     </div>
 
   );
