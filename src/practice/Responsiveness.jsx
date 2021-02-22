@@ -1,9 +1,8 @@
 import React from'react';
 
 const Res = () => (
-    <div class="bg-blue-400 flex flex-col sm:flex-row">
-        <div class="w-32 h-32 bg-gray-200 border">A</div>
-        <div class="w-32 h-32 bg-gray-200 border">B</div>
+    <div>
+        <button className="bg-blue-500 hover:bg-blue-600 text-white hover:text-blue-900 font-bold py-2 px-4 rounded">Submit</button>
     </div>
 );
 
