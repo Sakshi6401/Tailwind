@@ -4,6 +4,8 @@ import Text from './practice/Text';
 import Border from './practice/Border';
 import Flex from './practice/Flex';
 import Res from './practice/Responsiveness.jsx';
+import IpComp from './practice/IpComp.jsx';
+import Ecard from './practice/Ecard';
 
 function App() {
   return (
@@ -17,6 +19,10 @@ function App() {
       <Flex />
       <hr />
       <Res />
+      <br/><hr/>
+      <IpComp />
+      <br/><hr/>
+      <Ecard/>
     </div>
 
   );
